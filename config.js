@@ -1,4 +1,3 @@
-exports.TOKEN = '';
 
 exports.PREFIX = '[';
 
