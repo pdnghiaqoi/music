@@ -195,4 +195,4 @@ function play(guild, song) {
 	serverQueue.textChannel.send(`playing: **${song.title}**`);
 }
 
-client.login(TOKENID);
+bot.login(process.env.TOKENID);
